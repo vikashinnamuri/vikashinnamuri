@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vikashinnamuri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_CWaGvWLXkQjN6DRKoI9--bxiF08kULO/view?usp=drive_link](https://drive.google.com/file/d/1_CWaGvWLXkQjN6DRKoI9--bxiF08kULO/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_CWaGvWLXkQjN6DRKoI9--bxiF08kULO/view?usp=drive_link](https://drive.google.com/file/d/1ckN0J-Ycm2uOJFUZQqgPBTqbwNwUK-YE/view?usp=sharing)
 
 - ⚡ Fun fact **I am really close funny**
 
