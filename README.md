@@ -2,11 +2,11 @@
 <h3 align="center">Innovating the Future: Harnessing Technology to Empower Tomorrow</h3>
 <img alt="DATA Analysis" width="400" align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*Em4fgOqjNohIXtwP-MMREQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashinnamuri&label=Profile%20views&color=0e75b6&style=flat" alt="vikashinnamuri" /> </p>
-- 🔭 I’m currently working on **ML Project**
+- 🔭 I’m currently working on **ML**
 
 - 🌱 I’m currently learning **Clouds**
 
-- 👯 I’m looking to collaborate on **Exceptional Platfrom**
+- 👯 I’m looking to collaborate for an **Exceptional Platfrom**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikashinnamuri](https://github.com/vikashinnamuri)
 
